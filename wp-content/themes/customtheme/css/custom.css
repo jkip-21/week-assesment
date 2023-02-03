@@ -1,0 +1,42 @@
+html, body{
+    background-image: linear-gradient(to right, #de6262,  #ffb88c)
+}
+ul{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    list-style: none;
+}
+.thumnail-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin: 60px;
+}
+.flexs{
+    display: block;
+}
+ul li{
+    margin: 10px;
+}
+.text h2{
+    text-align: center;
+    color: blue
+}
+.text h1{
+    text-align: center;
+    color: rgb(29, 29, 32)
+}
+.text p{
+    text-align: center;
+    color: rgb(29, 29, 32)
+}
+.sidebar{
+    width: 300px;
+    list-style: none;
+    margin-left: 100px;
+}
+.content{
+    display: block;
+    margin-left: 100px;
+}
